@@ -1,0 +1,13 @@
+.each{
+    background-color: palegreen;
+    padding: 20px;
+    text-align: center;
+    border-radius: 30px;
+
+}
+.each h2{
+    padding-bottom: 30px;
+}
+.each button{
+    margin-left: 20px;
+}

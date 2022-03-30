@@ -1,0 +1,14 @@
+.detels{
+    background-color: pink;
+    text-align: center;
+    padding:50px;
+   
+}
+.detels .div{
+    line-height: 30px;
+    padding: 20px;
+    background-color: aqua;
+    width: 400px;
+    margin: 0 auto;
+
+}

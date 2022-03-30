@@ -1,0 +1,5 @@
+.id{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
